@@ -26,8 +26,6 @@ permitted unless at least one of the following exceptions applies.
     You are allowed to use this software on the servers (physical or virtual)
     they refer to without restrictions. For example, you are allowed to provide
     a publicly accessible game server from them.
-    Should the list be unavailable or empty, 'valtakausi.fi' and its subdomains
-    are considered to be authorized.
 
 # Limitation of liability
 This software is provided as-is, and is not guaranteed to be
