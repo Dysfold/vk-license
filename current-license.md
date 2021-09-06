@@ -19,7 +19,7 @@ permitted unless at least one of the following exceptions applies.
 
 - **Authorized servers** \
     A list available at
-    https://github.com/Valtakausi/vk-license/blob/master/authorized-servers.md
+    https://github.com/Dysfold/vk-license/blob/master/authorized-servers.md
     identifies the authorized servers. Domain names
     (and their all subdomains) and IP addresses listed there are considered
     "authorized". \
@@ -34,6 +34,6 @@ any damages caused by this software, unless required by law.
 
 # Fallback license
 This software may be relicensed by posting a notice including the new license
-at https://github.com/Valtakausi/vk-license/blob/master/current-license.md.
+at https://github.com/Dysfold/vk-license/blob/master/current-license.md.
 The old license is not revoked, but new changes to this software will
 likely only be available the new license terms.
